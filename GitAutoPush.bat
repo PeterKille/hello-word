@@ -18,7 +18,7 @@
 	git commit -m "auto push"
 	
 	::Push all changes to GitHub 
-	git push
+	git push https://github.com/PeterKille/hello-word.git
 	
 	::Alert user to script completion and relaunch.
 	echo Complete. Relaunching...
@@ -29,3 +29,4 @@
 	
 ::Restart from the top.	
 goto loop
+
